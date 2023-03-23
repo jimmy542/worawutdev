@@ -8,7 +8,7 @@
           <div class="mx-auto max-w-4xl">
             <p
               class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-              Blog is coming soon. 
+              A blog is coming soon. Worawut is busy making it more exciting
             </p>
           </div>
         </div>

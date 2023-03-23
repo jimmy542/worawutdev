@@ -8,7 +8,7 @@
           <div class="mx-auto max-w-4xl">
             <p
               class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-              Activitys is coming soon. 
+              Exciting activities are coming soon! Worawut is currently working on rewriting them to make them more inspiring.
             </p>
           </div>
         </div>

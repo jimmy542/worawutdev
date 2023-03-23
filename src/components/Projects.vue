@@ -37,6 +37,10 @@ export default {
   data() {
     return {
       projects:[
+         {
+          title:`More project references to be added soon`,
+          detail:``
+        },
         {
           title:`Smart Sales REST APIs integration with Vtiger`,
           detail:`Develop and maintain APIs, integrate with Vtiger, setup production server and webservices.
