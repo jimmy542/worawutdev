@@ -13,7 +13,7 @@
               Hi , I am Worawut 
             </p>
             <p class="mt-6 text-lg leading-8 text-gray-600">
-             A passionate software developer with a track record of designing and developing custom solutions to meet diverse business needs. Skilled in creating REST APIs for different platforms, enhancing user experience through view customizations, and collaborating effectively with multinational teams. Proficient in multiple programming languages and frameworks, including open-source technologies. Always eager to learn and take on new challenges, I have a proven ability to learn fast and adapt quickly to new technologies and development methodologies.
+             As a skilled software developer, I have a passion for creating innovative solutions using multiple programming languages. I'm committed to continuously learning and adapting to new technologies, recognizing that keeping up with the latest trends is essential for staying relevant in the industry. With a drive to leave a lasting impact and inspire others, I aim to push the boundaries of what's possible and help others reach new heights.
             </p>
             <p
               class="mt-6 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
