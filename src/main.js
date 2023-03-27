@@ -24,7 +24,7 @@ library.add(faLinkedin,faGithub)
 
 const routes = [
     { path: '/', component: Home },
-    { path: '/project', component: Projects },
+    { path: '/projects', component: Projects },
     { path: '/activity', component: Activity },
     { path: '/blog', component: Blog },
     { path: '/test',component:Test},
