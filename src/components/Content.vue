@@ -19,37 +19,11 @@
               class="mt-6 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
               Skills
             </p>
+            <p class="mt-6 text-lg leading-8 text-gray-600">
+             Python, PHP, Kotlin, Java, JavaScript, SQL, MySQL, PostgreSQL, SQLite, Odoo, Magento,
+WordPress, VSCode, Docker, Nginx, Git, Linux
+            </p>
             
-    <div class="mt-6">
-    <div class="flex flex-col space-y-2">
-        <div class="flex space-x-2">
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-gray-200 text-gray-800 rounded-full">Python</div>
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-red-200 text-red-800 rounded-full">PHP</div>
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-orange-200 text-orange-800 rounded-full">Kotlin</div>
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-yellow-200 text-yellow-800 rounded-full">Java</div>
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-green-200 text-green-800 rounded-full">JavaScript</div>
-            
-        </div>
-        <div class="flex space-x-2">
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-teal-200 text-teal-800 rounded-full">SQL</div>
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-blue-200 text-blue-800 rounded-full">MySQL</div>
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-purple-200 text-purple-800 rounded-full">PostgreSQL</div>
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-indigo-200 text-indigo-800 rounded-full">SQLite</div>
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-pink-200 text-pink-800 rounded-full">Odoo</div>
-            
-        </div>
-        <div class="flex space-x-2">
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-gray-200 text-gray-800 rounded-full">Magento</div>
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-red-200 text-red-800 rounded-full">WordPress</div>
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-orange-200 text-orange-800 rounded-full">VSCode</div>
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-yellow-200 text-yellow-800 rounded-full">Docker</div>
-        </div>
-        <div class="flex space-x-2">
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-green-200 text-green-800 rounded-full">Nginx</div>
-            <div style="padding-top: 0.1em; padding-bottom: 0.1rem" class="text-xs px-3 bg-teal-200 text-teal-800 rounded-full">Linux</div>  
-        </div>
-    </div>
-    </div>
             <p
               class="mt-6 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
               Links
@@ -72,7 +46,7 @@ export default {
   name: "Content",
   data() {
     return {
-     
+      
     }
   },
   
