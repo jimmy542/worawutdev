@@ -77,8 +77,9 @@ export default {
         },
         {
           title:`License Activator`,
-          tools:`Tools: Git, Bitbucket, Codigniter, PHP, Mysql`,
-          detail:`Develop "License Activator" web application for Android device licenses activation, allowing customers to register and activate their licenses for "Smart Track" and "Smart Sales." Utilizing CodeIgniter and AngularJS technologies.`,
+          tools:`Tools: Git, Bitbucket, Codigniter, PHP, Mysql,AngularJS`,
+          detail:`Develop "License Activator" web application for Android device licenses activation,
+           allowing customers to register and activate their licenses for "Smart Track" and "Smart Sales.`,
           link:[`http://www.rbs.co.th`]
         },
          {
