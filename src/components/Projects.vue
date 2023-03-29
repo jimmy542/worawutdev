@@ -72,12 +72,12 @@ export default {
         {
           title:`Smart Track`,
           detail:`Develop an Android application for Fixed Asset Tracking, which includes features such as QR/barcode scanning for asset status/movement, REST APIs, data uploading to backend, QR code generation, asset reporting by location and loss, barcode sticker printing, USB data sync with computer/server, and data export to ERP, while ensuring compatibility with Android devices.`,
-          link:[`www.aeon.co.th`,`www.evergreen-shipping.co.th`,`www.isuzu.co.th`]
+          link:[`https://www.aeon.co.th`,`https://www.evergreen-shipping.co.th`,`https://www.isuzu.co.th`]
         },
         {
           title:`License Management`,
           detail:`Develop a license management system for Android devices with CodeIgniter and AngularJS that enables administrators to manage licenses for fixed assets, deactivate users, and add new licenses.`,
-          link:[`www.rbs.co.th`]
+          link:[`http://www.rbs.co.th`]
         },
 
       ],
