@@ -5,16 +5,19 @@
     <div class="row">
       <div class="bg-white py-4 sm:py-16">
         <div class="mx-auto max-w-5xl px-6 lg:px-8">
-          <div v-for="(item, key) in projects" :key="key" class="mx-auto max-w-4xl">
+          <div v-for="(item, key) in projects" :key="key" class="mx-auto max-w-1xl">
             <p
-              class="mt-2 text-1xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              class="mt-2 text-lg font-bold tracking-tight text-gray-900 sm:text-1xl">
               {{item.title}}
             </p>
-            <p class="mt-2 text-lg leading-8 text-gray-600">
+            <p class="mt-2 text-base leading-8 text-gray-600">
               {{item.tools}}
             </p>
-            <p class="mt-2 text-lg leading-8 text-gray-600">
+            <p class="mt-2 text-base leading-8 text-gray-600">
               {{item.detail}}
+            </p>
+            <p v-for="(link, index) in item.link" :key="index" class="mt-2 text-base leading-8 text-gray-600">
+                <a :href="link" target="_blank">{{link}}</a>
             </p>
           </div>
         </div>
@@ -43,24 +46,38 @@ export default {
         },
         {
           title:`Smart Sales REST APIs integration with Vtiger`,
-          detail:`Develop and maintain APIs, integrate with Vtiger, setup production server and webservices.
-          Website: https://www.cotto.com`,
+          detail:`Develop and maintain APIs, integrate with Vtiger, setup production server and webservices.`,
           tools:`Tools: PHP, MySQL, SQLite, Postman, Windows Server 2012`,
+          link:[`https://www.cotto.com`]
         },
         {
           title:`Elephant Bus Tours Android Application Development`,
-          detail:`Developed an Android POS system with embedded printer for bus tours. Integrated with backend using REST APIs, with features such as login, GPS bus tracking, ticket purchase, redemption, expiry check, and printing using ESC commands. Provided SDK manual for customers. Website: https://elephantbustours.com`,
+          detail:`Developed an Android POS system with embedded printer for bus tours. Integrated with backend using REST APIs, with features such as login, GPS bus tracking, ticket purchase, redemption, expiry check, and printing using ESC commands. Provided SDK manual for customers.`,
           tools:`Tools: Git, Bitbucket, Java for Android, XML, Android Studio, Postman`,
+          link:[`https://elephantbustours.com`]
         },
         {
           title:`Odoo bridge Magento,Opencart`,
-          detail:`Developed Module for sync Data between Odoo and Magento 2.4 / Opencart to list secondhand brandname products from Odoo. Features include automatic synchronization, real-time inventory sync, REST APIs for product tracking status, auto-generation of order invoice, and customer loyalty points program.Website: https://sfbrandname.com, https://www.kanekoji.com`,
+          detail:`Developed Module for sync Data between Odoo and Magento 2.4 / Opencart to list secondhand brandname products from Odoo. Features include automatic synchronization, real-time inventory sync, REST APIs for product tracking status, auto-generation of order invoice, and customer loyalty points program.
+          `,
           tools:`Tools: Git,Bitbucket,Python, Postgres , Vscode , Postman , Magento 2.4 , Opencart , Swagger, Docker, Ubuntu Server`,
+          link:[`https://sfbrandname.com`,`https://www.kanekoji.com`]
         },
          {
-          title:`PEA Overdue Electric Bill Android Application`,
+          title:`PEA Overdue Bill / Electric Bill Android Application`,
           detail:`Developed demo and completed PEA Overdue electric bill Android app, including Bluetooth printer connectivity and CPCL command set for printing pre-printed forms. Features include sample bill printing, text format design, QR code command set, font selection, and paper format and tear-off adjustment. Also created SDK manual for customers.`,
           tools:`Tools: Git, Bitbucket, Java, Android Studio, SQLite`,
+          link:[`https://www.pea.co.th`]
+        },
+        {
+          title:`Smart Track`,
+          detail:`Develop an Android application for Fixed Asset Tracking, which includes features such as QR/barcode scanning for asset status/movement, REST APIs, data uploading to backend, QR code generation, asset reporting by location and loss, barcode sticker printing, USB data sync with computer/server, and data export to ERP, while ensuring compatibility with Android devices.`,
+          link:[`www.aeon.co.th`,`www.evergreen-shipping.co.th`,`www.isuzu.co.th`]
+        },
+        {
+          title:`License Management`,
+          detail:`Develop a license management system for Android devices with CodeIgniter and AngularJS that enables administrators to manage licenses for fixed assets, deactivate users, and add new licenses.`,
+          link:[`www.rbs.co.th`]
         },
 
       ],
