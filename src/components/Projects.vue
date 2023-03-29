@@ -76,9 +76,9 @@ export default {
           link:[`https://www.aeon.co.th`,`https://www.evergreen-shipping.co.th`,`https://www.isuzu.co.th`]
         },
         {
-          title:`License Management`,
+          title:`License Activator`,
           tools:`Tools: Git, Bitbucket, Codigniter, PHP, Mysql`,
-          detail:`Develop a license management system for Android devices with CodeIgniter and AngularJS that enables administrators to manage licenses for fixed assets, deactivate users, and add new licenses.`,
+          detail:`Develop "License Activator" web application for Android device licenses activation, allowing customers to register and activate their licenses for "Smart Track" and "Smart Sales." Utilizing CodeIgniter and AngularJS technologies.`,
           link:[`http://www.rbs.co.th`]
         },
          {
