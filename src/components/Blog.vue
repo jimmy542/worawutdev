@@ -7,7 +7,7 @@
         <div class="mx-auto max-w-5xl px-6 lg:px-8">
           <div class="mx-auto max-w-4xl">
             <p
-              class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-2xl">
               A blog is coming soon. Worawut is busy making it more exciting
             </p>
           </div>

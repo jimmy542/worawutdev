@@ -9,18 +9,18 @@
               
             </div>
             <p
-              class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-2xl">
               Hi ,
             </p>
              <p
-              class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-2xl">
               I am Worawut : Wo-rah-wut 
             </p>
             <p class="mt-6 text-lg leading-8 text-gray-600">
              As a skilled software developer, I have a passion for creating innovative solutions using multiple programming languages. I'm committed to continuously learning and adapting to new technologies, recognizing that keeping up with the latest trends is essential for staying relevant in the industry. With a drive to leave a lasting impact and inspire others, I aim to push the boundaries of what's possible and help others reach new heights.
             </p>
             <p
-              class="mt-6 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              class="mt-6 text-3xl font-bold tracking-tight text-gray-900 sm:text-2xl">
               Skills
             </p>
             <p class="mt-6 text-lg leading-8 text-gray-600">
@@ -29,7 +29,7 @@ WordPress, VSCode, Docker, Nginx, Git, Linux
             </p>
             
             <p
-              class="mt-6 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              class="mt-6 text-3xl font-bold tracking-tight text-gray-900 sm:text-2xl">
               Links
             </p>
             <div class="mt-6">
