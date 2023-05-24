@@ -44,6 +44,12 @@ export default {
           title:`More project references to be added soon`,
           detail:``
         },
+       {
+        "title": "Laravel JobBoard",
+        "detail": "Laravel JobBoard: Revolutionizing the way you search for jobs! With our advanced filtering options, you can easily find the perfect job based on salary and location. But that's not all - we take it a step further by calculating the distance between you and the job location, ensuring you find the most convenient opportunities. Say goodbye to tedious job searches and embrace the power of Laravel JobBoard!",
+        "tools": "Tools: PHP, MySQL, Laravel, Vue3, Inertia, VPS Linode, Nginx",
+        "link": ["https://project1.worawut.dev/"]
+        },
         {
           title:`Smart Sales REST APIs integration with Vtiger`,
           detail:`Develop and maintain APIs, integrate with Vtiger, setup production server and webservices.`,
