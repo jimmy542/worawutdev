@@ -40,13 +40,6 @@ export default {
   data() {
     return {
       projects:[
-       
-        {
-          title:`Laravel JobBoard`,
-          detail:`Laravel JobBoard laravel`,
-          tools:`Tools: PHP, MySQL,Laravel,Vue3,Inertia,Vps Linode , Nginx`,
-          link:[`https://project1.worawut.dev/`]
-        },
          {
           title:`More project references to be added soon`,
           detail:``
